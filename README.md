@@ -5,7 +5,7 @@
 🚀 **I’m currently learning:** Full Stack Development  
 💬 **Ask me about:** Java, Python, Spring Boot, React.js, Django  
 💎 **Email:** [poojavajramatti28@gmail.com](mailto:poojavajramatti28@gmail.com)  
-📱 **Phone:** 7760370958  
+📱 **Phone no:** 7760370958  
 
 ---
 
