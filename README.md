@@ -1,59 +1,11 @@
-# Hi 👋, I'm Pooja Vajramatti.
+ Hi 👋, I'm Pooja Vajramatti.
+🚀 A Passionate Full Stack Developer
+🚀 I’m currently learning: Full Stack Development
+💬 Ask me about: Java, Python, Spring Boot, React.js, Django
+📧 Email: poojavajramatti28@gmail.com
+📱 Phone: 7760370958
 
-## 🚀 A Passionate Full Stack Developer  
-
-🚀 **I’m currently learning:** Full Stack Development  
-💬 **Ask me about:** Java, Python, Spring Boot, React.js, Django  
-📧 **Email:** [poojavajramatti28@gmail.com](mailto:poojavajramatti28@gmail.com)  
-📱 **Phone:** 7760370958  
-
----
-
-## 🔗 Connect with me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/pooja-vajramatti-538b432a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
-
-## 🛠 Languages and Tools  
-<p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
-  </a>
-  <a href="https://www.djangoproject.com" target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  </a>
-  <a href="https://www.gnu.org/software/c/" target="_blank">
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  </a>
-</p>
+🔗 Connect with me
+<p align="left"> <a href="https://www.linkedin.com/in/pooja-vajramatti-538b432a1" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a> </p>
+🛠 Languages and Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </p>
